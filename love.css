@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(252 254 252);
+}
+
+img {
+    margin: 0 0 0 500px;
+}
+#bebra {
+    background: #fc6554;
+}
+
+button {
+    font-family: monospace;
+    margin: 60px -450px 0px 505px;
+    background: #bfb5ae;
+    height: 50px;
+    width: 250px;
+    border-radius: 40px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+    color: #532812;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+#block {
+    font-size: 20px;
+    padding: 10px 15px 0px 15px;
+    width: 250px;
+    height: 35px;
+    background-color: rgb(251 104 85);
+    border-radius: 20px;
+    margin: 0px 0 0 635px;
+    color: aliceblue;
+}
+
